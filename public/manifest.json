@@ -45,6 +45,6 @@
     ],
     "theme-color": "#ffffff",
     "backgorund-color": "#756BD1",
-    "start_url": "public/index.html",
+    "start_url": "/",
     "display": "standalone"
 }
